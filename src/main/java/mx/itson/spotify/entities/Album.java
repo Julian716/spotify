@@ -89,7 +89,7 @@ public class Album {
     private Date fechaLanzamiento;
     private List<Cancion> canciones;
     private String genero;
-    
+    //Subido al octogato
     public Album deserializar(String json) {
         
         Album album = new Album();
